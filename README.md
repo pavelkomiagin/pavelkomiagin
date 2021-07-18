@@ -23,7 +23,7 @@ I'm language agnostic and believe in choosing the right tool for the job. Love t
 * Passion to learn and apply new technologies in my work.
 
 #### What I do:
-* Convert mocks or Zeplin/Figma/Photoshop design to adaptive React components (thanks to media queries)
+* Convert mockups, wireframes, or Zeplin/Figma/Photoshop design to adaptive React components
 * Work with Git from terminal
 * Like the terminal as well as GUI. Work in MacOS now, but also have experience with Ubuntu
 * Use SASS (CSS-modules rocks 🤘)
