@@ -7,13 +7,13 @@
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@pavel.komiagin)
 [<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/pavelkomiagin)
 
-I'm a Software Engineer with 9 years of professional experience in web development. 
+I'm a **Software Engineer** with **9 years** of professional experience in web development. 
 
 I'm language agnostic and believe in choosing the right tool for the job. Love to create beautiful interfaces as well as internal tools
 
 #### What I have:
-* Strong knowledge of modern native JavaScript, HTML/CSS3
-* Extensive experience with React (+ Redux/Webpack/redux-saga/Next.js)
+* Strong knowledge of modern native **JavaScript, HTML/CSS3**
+* Extensive experience with **React (+ Redux/Webpack/redux-saga/Next.js)**
 * Solid understanding of debugging using ChromeDevTools and other techniques
 * Familiarity with GraphQL (Apollo)
 * Understanding how the full stack web technologies work (servers, network, etc.)
@@ -24,6 +24,9 @@ I'm language agnostic and believe in choosing the right tool for the job. Love t
 
 #### What I do:
 * Convert mockups, wireframes, or Zeplin/Figma/Photoshop design to adaptive React components
+* Write tests on my code
+* Share my experience and knowledge with other people
+* Use best practices for writing code
 * Work with Git from terminal
 * Like the terminal as well as GUI. Work in MacOS now, but also have experience with Ubuntu
 * Use SASS (CSS-modules rocks 🤘)
@@ -44,6 +47,8 @@ I'm language agnostic and believe in choosing the right tool for the job. Love t
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 ## Contributions to OSS
@@ -52,6 +57,11 @@ I'm language agnostic and believe in choosing the right tool for the job. Love t
 
 ## My GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavelkomiagin&count_private=true" width="45%" />
+
+## More links
+[[Codepen]](https://codepen.io/pavel_komiagin)
+[[StackOverflow]](https://stackoverflow.com/users/2587396/pavel-komiagin)
+[[Codewars]](https://www.codewars.com/users/pavel_komiagin)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pavelkomiagin)
 
