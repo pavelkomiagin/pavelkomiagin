@@ -4,8 +4,8 @@
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pavel.komiagin@gmail.com)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pavelkomiagin)
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@pavel.komiagin)
-[<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/pavelkomiagin)
+<!-- [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@pavel.komiagin)
+[<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/pavelkomiagin) -->
 
 I'm a **Software Engineer** with **9 years** of professional experience in web development. 
 
@@ -51,7 +51,7 @@ I'm language agnostic and believe in choosing the right tool for the job. Love t
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
-## Contributions to OSS
+## Contributions to open source
 [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Chrome and Firefox browser extension to show a file tree on GitHub's Pull Request pages
 [mxstbr/sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - a web app to quickly generate social sharing buttons that do not track the user.
 
