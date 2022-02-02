@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pavel - Senior Frontend Developer @ Netology
 
-<img alt="programmer" src="https://camo.githubusercontent.com/3336225ba7d4ed972b544a527e9b10a5ada32049692312f2955778cea360e271/68747470733a2f2f7777772e62656176657273776f726b2e636f6d2f696d672d736974652f62656176657273776f726b2e676966" align="right" width="300" />
+<img alt="programmer" src="https://github.com/pavelkomiagin/pavelkomiagin/blob/731bee9feb0da7c9c300d6daff948d8ddd8ac4a1/programmer.gif" align="right" width="300" />
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pavel.komiagin@gmail.com)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pavelkomiagin)
