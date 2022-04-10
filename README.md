@@ -7,7 +7,7 @@
 <!-- [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@pavel.komiagin)
 [<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/pavelkomiagin) -->
 
-I'm a **Software Engineer** with **9 years** of professional experience in web development. 
+I'm a **Software Engineer** with **10 years** of professional experience in web development. 
 
 I'm language agnostic and believe in choosing the right tool for the job. Love to create beautiful interfaces as well as internal tools
 
