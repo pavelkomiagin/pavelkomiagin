@@ -59,7 +59,7 @@ I'm language agnostic and believe in choosing the right tool for the job. Love t
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavelkomiagin&count_private=true" width="45%" />
 
 ## 📘Latest Blog Articles
-* [Stop arguing about code style in pull requests!](https://pavelkomiagin.hashnode.dev/stop-arguing-about-code-style-in-pull-requests)
+* Stop arguing about code style in pull requests! (on [hashnode](https://pavelkomiagin.hashnode.dev/stop-arguing-about-code-style-in-pull-requests), [dev.to](https://dev.to/pavelkomiagin/stop-arguing-about-code-style-in-pull-requests-3022))
 
 ## More links
 [[Resume in PDF]](https://github.com/pavelkomiagin/pavelkomiagin/blob/a881625fea47c45b39c3590427bb78ec665fb8fa/resume_Pavel_Komiagin_SE.pdf)
