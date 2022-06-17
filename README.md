@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pavel - Senior Frontend Developer @ Netology
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Pavel - Senior Frontend Developer @ Netology
 
 <img alt="programmer" src="https://github.com/pavelkomiagin/pavelkomiagin/blob/731bee9feb0da7c9c300d6daff948d8ddd8ac4a1/programmer.gif" align="right" width="300" />
 
