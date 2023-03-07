@@ -71,6 +71,8 @@ I'm language agnostic and believe in choosing the right tool for the job. Love t
 
 [[Telegram channel]](https://t.me/paulstech)
 
+[[I can be your mentor]](https://getmentor.dev/mentor/pavel-komiagin-1583)
+
 [[Codepen]](https://codepen.io/pavel_komiagin)
 [[StackOverflow]](https://stackoverflow.com/users/2587396/pavel-komiagin)
 [[Codewars]](https://www.codewars.com/users/pavel_komiagin)
