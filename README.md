@@ -67,6 +67,7 @@ I'm language agnostic and believe in choosing the right tool for the job. Love t
 * Личный опыт: какой уровень иностранного языка нужен для работы в IT в разных компаниях и странах (on [habr.com](https://habr.com/ru/company/netologyru/blog/698676)) - RUS
 * Личный опыт: как остаться живым человеком на удалёнке (on [habr.com](https://habr.com/ru/companies/netologyru/articles/737736)) - RUS
 * Как делегировать задачу, чтобы не пришлось её переделывать самому (on [habr.com](https://habr.com/ru/companies/netologyru/articles/743236)) - RUS
+* Я устал: работа — рутина, и нет ощущения, что создаю что-то ценное. Как быть? (on [habr.com](https://habr.com/ru/companies/netologyru/articles/760386)) - RUS
 
 ## More links
 [[Resume in PDF]](https://github.com/pavelkomiagin/pavelkomiagin/blob/a881625fea47c45b39c3590427bb78ec665fb8fa/resume_Pavel_Komiagin_SE.pdf)
